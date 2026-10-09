@@ -5,7 +5,7 @@
   <h1>Aryan M</h1>
 
   <p>
-    <strong>AI/ML Engineer | Data Engineer | Agentic AI Builder</strong>
+    <strong>AI/ML Engineer | Associate Data Engineer | Agentic AI Builder</strong>
   </p>
 
   <p>
